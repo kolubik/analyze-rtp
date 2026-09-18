@@ -1,0 +1,6 @@
+{
+  "name": "CASE BATTLE HELPER",
+  "description": "Cyberpunk terminal & analytical assistant for case openings with real-time drop feed, momentum index, RTP math, and Python script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
